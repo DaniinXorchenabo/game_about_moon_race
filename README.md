@@ -31,8 +31,11 @@
 
 
 ## Screenshots
-
+![alt text](screenshots/start_screen.png "Заставка")
 ![alt text](screenshots/main_screen.png "Главное меню")
+![alt text](screenshots/gameplay.png "Игровой процесс")
+![alt text](screenshots/multiplayer.png "режим multiplayer")
+![alt text](screenshots/bot.png "Соревнование с ботом")
 
 [game.exe]: https://drive.google.com/file/d/18z2VgeTZNg7kLV14P2-E1FL0v1sreVzm/view?usp=sharing
   
