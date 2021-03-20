@@ -5,7 +5,7 @@
 
 ## Download
 
-  - [game.exe][game.exe] - архив с файлами игры (запускать game.exe)
+  - [game][game] - архив с файлами игры (запускать game.exe)
 
 
 ## Gameplay
@@ -37,5 +37,5 @@
 ![alt text](screenshots/multiplayer.png "режим multiplayer")
 ![alt text](screenshots/bot.png "Соревнование с ботом")
 
-[game.exe]: https://drive.google.com/file/d/1WLN9TjLouAvgvkLq1vyuEYQavlaw86_c/view?usp=sharing
+[game]: https://drive.google.com/file/d/1WLN9TjLouAvgvkLq1vyuEYQavlaw86_c/view?usp=sharing
   
